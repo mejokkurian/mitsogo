@@ -10,7 +10,7 @@ Ensure you have the following installed on your machine:
 
 ```sh
 git clone https://github.com/mejokkurian/mitsogo
-cd YOUR_REPO
+cd mitsogo
 ```
 
 ### 3️⃣ Install Dependencies
