@@ -27,16 +27,6 @@ Or using Yarn:
 yarn install
 ```
 
-### 4️⃣ Environment Variables
-
-Create a `.env.local` file in the root directory and add necessary environment variables as per the project requirements.
-
-Example:
-
-```sh
-NEXT_PUBLIC_API_URL=https://your-api-url.com
-```
-
 ### 5️⃣ Run the Development Server
 
 ```sh
